@@ -6,3 +6,4 @@ Egypt/Cairo
 England/London
 Australia/Canberra
 Thailand/Bangkok
+Moldova/Chisinau
